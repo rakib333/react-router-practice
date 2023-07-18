@@ -1,0 +1,10 @@
+.posts h3 {
+    text-align: center;
+    font-size: large;
+}
+
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}

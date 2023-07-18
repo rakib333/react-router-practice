@@ -1,0 +1,12 @@
+.friendDetails {
+    width: 500px;
+    height: 300px;
+    border: 1px solid salmon;
+    border-radius: 10px;
+    background-color: cornsilk;
+    font-size: 22px;
+    color: green;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
